@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "負けるな女の子！",
+  "base_artist": "原　由子",
+  "createdAt": "2025-12-01T19:31:42.051862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "負けるな女の子!",
+      "artist": "Yuko Hara",
+      "has_synced": false,
+      "path": "select/01_負けるな女の子!_Yuko_Hara.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "負けるな女の子!",
+      "artist": "Hara, Yuko",
+      "has_synced": false,
+      "path": "select/02_負けるな女の子!_Hara,_Yuko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "負けるな女の子!",
+      "artist": "原 由子",
+      "has_synced": false,
+      "path": "select/pl_01_負けるな女の子!_原_由子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "負けるな女の子!",
+      "artist": "原 由子",
+      "has_synced": false,
+      "path": "select/pl_02_負けるな女の子!_原_由子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "負けるな女の子!",
+      "artist": "原 由子",
+      "has_synced": false,
+      "path": "select/pl_03_負けるな女の子!_原_由子.txt"
+    }
+  ]
+}
